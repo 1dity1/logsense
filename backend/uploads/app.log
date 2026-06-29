@@ -1,0 +1,12 @@
+2024-01-15 10:23:01 INFO Server started on port 3000
+2024-01-15 10:23:05 INFO Database connected successfully
+2024-01-15 10:24:12 ERROR Failed to authenticate user: invalid token
+2024-01-15 10:24:13 WARN Rate limit exceeded for IP 192.168.1.105
+2024-01-15 10:25:00 ERROR Database connection timeout after 30s
+2024-01-15 10:25:01 INFO Retrying database connection...
+2024-01-15 10:25:03 INFO Database reconnected
+2024-01-15 10:26:45 ERROR NullPointerException in UserService.java:142
+2024-01-15 10:27:00 INFO 1523 requests processed in last 60s
+2024-01-15 10:28:30 WARN Memory usage at 87% threshold
+2024-01-15 10:29:00 ERROR OOM killed process 4521
+2024-01-15 10:30:00 INFO Health check passed
